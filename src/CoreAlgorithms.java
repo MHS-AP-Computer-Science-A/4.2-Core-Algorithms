@@ -1,5 +1,3 @@
-
-
 public class CoreAlgorithms {
   public static void main(String args[]) {
     // Divisibility
